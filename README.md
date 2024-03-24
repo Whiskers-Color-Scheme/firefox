@@ -1,5 +1,9 @@
 # Firefox
-## Preview
+## Previews
+<div align="center">
+<img src="assets/panther-firefox.webp" width="300">
+<img src="assets/tiger-firefox.webp" width="300">
+</div>
 
 ## Install
 To install this theme you first need [firefox color](https://addons.mozilla.org/en-US/firefox/addon/firefox-color/) addon.
