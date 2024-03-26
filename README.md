@@ -1,6 +1,7 @@
 <div align="center">
 
-Logo
+<img src="assets/placeholder.png" width="100">
+
 ### Whiskers for [Firefox](https://www.mozilla.org/en-US/firefox/new/)
 
 <div>
